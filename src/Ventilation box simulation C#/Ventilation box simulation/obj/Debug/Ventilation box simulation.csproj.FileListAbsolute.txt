@@ -1,0 +1,606 @@
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+C:\Airios project\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Google.Protobuf.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\MySql.Data.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Renci.SshNet.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Buffers.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Memory.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Zstandard.Net.dll
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Google.Protobuf.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\MySql.Data.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\Renci.SshNet.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Buffers.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Memory.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danail Georgiev\source\repos\Ventilation box simulation\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CopyComplete
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\netstandard.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.AppContext.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Console.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.Common.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Http.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Ping.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Requests.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Security.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ObjectModel.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Claims.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Principal.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Zstandard.Net.dll
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe.config
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CoreCompileInputs.cache
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CopyComplete
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+C:\Users\Ilian\Desktop\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\netstandard.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.AppContext.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Concurrent.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.NonGeneric.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Specialized.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Console.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.Common.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Contracts.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Debug.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Process.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tools.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tracing.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Drawing.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Dynamic.Runtime.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Calendars.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Extensions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.IsolatedStorage.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Pipes.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Expressions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Parallel.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Queryable.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Http.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NameResolution.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NetworkInformation.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Ping.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Requests.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Security.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Sockets.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.Client.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ObjectModel.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Extensions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Reader.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.ResourceManager.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Writer.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Extensions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Handles.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Numerics.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Claims.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Principal.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.SecureString.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.RegularExpressions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Overlapped.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Thread.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.ThreadPool.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Timer.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.ReaderWriter.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XDocument.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlDocument.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlSerializer.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\BouncyCastle.Crypto.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ubiety.Dns.Core.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Zstandard.Net.dll
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.pdb
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.xml
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe.config
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CoreCompileInputs.cache
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CopyComplete
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+E:\usb\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\netstandard.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.AppContext.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Concurrent.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.NonGeneric.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Specialized.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Console.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.Common.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Debug.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Process.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tools.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Drawing.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Dynamic.Runtime.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Calendars.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Extensions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Pipes.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Expressions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Parallel.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Queryable.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Http.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NameResolution.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NetworkInformation.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Ping.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Requests.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Security.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Sockets.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ObjectModel.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Extensions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Reader.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.ResourceManager.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Writer.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Extensions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Handles.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Numerics.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Claims.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Principal.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.SecureString.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.RegularExpressions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Overlapped.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Thread.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.ThreadPool.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Timer.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XDocument.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlDocument.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.pdb
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.xml
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe.config
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CopyComplete
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+D:\Visual Studio C#\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe.config
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.exe
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ventilation box simulation.pdb
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\netstandard.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.AppContext.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Console.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.Common.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Http.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Ping.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Requests.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Security.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ObjectModel.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Claims.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.Principal.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Zstandard.Net.dll
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Firebase.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Google.Protobuf.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\LiteDB.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\MySql.Data.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\Renci.SshNet.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Buffers.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Data.SqlClient.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Memory.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Reactive.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\bin\Debug\System.ValueTuple.xml
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csprojAssemblyReference.cache
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe.config
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Form1.resources
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation_box_simulation.Properties.Resources.resources
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.GenerateResource.cache
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.csproj.CopyComplete
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.exe
+D:\Downloads\Ventilation box simulation s\Ventilation box simulation\obj\Debug\Ventilation box simulation.pdb
